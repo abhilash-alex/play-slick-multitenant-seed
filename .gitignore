@@ -1,0 +1,8 @@
+logs
+target
+.idea
+/.classpath
+/project/target/streams
+/.settings
+/RUNNING_PID
+/project/target/
